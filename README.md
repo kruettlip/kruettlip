@@ -4,8 +4,8 @@
 
 - 🚀 I’m currently learning more about Docker, Kubernetes and new Frontend frameworks.
 - 👬 I’m looking to collaborate with other developers.
-- 💬 Ask me about anything regarding fullstack and/or cloud development.
-- 🏋 My current goal is: Mastering the first year of my Bachelor's degree.
+- 💬 Ask me about anything regarding fullstack, cloud development or software architecture.
+- 🏋 My current goal is: Mastering my Bachelor's degree at FHNW University of Applied Sciences and Arts Northwestern Switzerland.
 - ⚽ Fun fact: I love playing Soccer.
 <!-- - 🤔 I’m looking for help with ... -->
 
