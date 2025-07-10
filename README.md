@@ -2,15 +2,15 @@
 
 ### I'm a passionate Software Engineer!
 
-- 🚀 I’m currently learning more about Docker, Kubernetes and new Frontend frameworks.
+- 🚀 I’m currently learning more about interdisciplinary software engineering, Kubernetes and the latest developments in .NET.
 - 👬 I’m looking to collaborate with other developers.
-- 💬 Ask me about anything regarding fullstack, cloud development or software architecture.
-- 🏋 My current goal is: Mastering my Bachelor's degree at FHNW University of Applied Sciences and Arts Northwestern Switzerland.
+- 💬 Ask me about anything regarding FullStack, cloud development or software architecture.
+- 🏋 My current goal is: Mastering my Aerospace Engineering Master's degree at University of Colorado, Boulder.
 - ⚽ Fun fact: I love playing Soccer.
 <!-- - 🤔 I’m looking for help with ... -->
 
 ### Languages and Frameworks 👨‍💻
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="C#" height="35px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="C#" height="35px" src="https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials.png" /></a>
 <a href="https://www.java.com/de/"><img align="left" alt="Java" height="35px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /></a>
 <a href="https://wiki.selfhtml.org/wiki/HTML"><img align="left" alt="HTML" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" /></a>
@@ -18,7 +18,7 @@
 <a href="https://wiki.selfhtml.org/wiki/JavaScript"><img align="left" alt="JavaScript" height="35px" src="https://user-images.githubusercontent.com/26480803/135827972-88e09ce1-0f2d-4e3d-9366-a6768e036c94.png" /></a>
 <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /></a>
 <a href="https://angular.io/"><img align="left" alt="Angular" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" /></a>
-<a href="https://www.w3schools.com/sql/"><img align="left" alt="SQL" height="35px" src="https://azure-scenarios-experience.azurewebsites.net/media/index/azure-sql.png" /></a>
+<a href="https://www.w3schools.com/sql/"><img align="left" alt="SQL" height="35px" src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" /></a>
 <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0"><img align="left" alt="ASP.NET Core" height="35px" src="https://user-images.githubusercontent.com/26480803/135830199-542081ec-7349-41a9-95ab-c7c73e0cd0bc.png" /></a>
 <a href="https://docs.microsoft.com/en-us/ef/core/"><img align="left" alt="Entity Framework Core" height="35px" src="https://user-images.githubusercontent.com/26480803/135829023-678e2c78-15a0-4070-8f02-75c8c9d06d7f.png" /></a>
 
@@ -44,11 +44,11 @@
 <a href="https://www.docker.com/"><img align="left" alt="Docker" height="35px" src="https://www.testautomatisierung.org/wp-content/uploads/14098888813_bec60d595d_o.png" /></a>
 <a href="https://www.raspberrypi.com/"><img align="left" alt="Raspberry Pi" height="35px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/2000px-Raspberry_Pi_Logo.svg.png" /></a>
 <a href="https://www.linux.org/"><img align="left" alt="Linux" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" /></a>
-<a href="https://opensource.org/"><img align="left" alt="Open Source" height="35px" src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" /></a>
+<a href="https://opensource.org/"><img align="left" alt="Open Source" height="35px" src="https://cdn.coreshop.org/assets_thumbnails/Logos/230/image-thumb__230__hero_image_text/open-source.a428aaf0.png" /></a>
 
 <br>
 <br>
 
 ### Get in touch with me 📫
-<a href="https://www.linkedin.com/in/philippe-kruettli" target="_blank"><img align="left" alt="LinkedIn" width="35px" src="https://denkpharma.de/wp-content/uploads/2018/09/linkedin-logo-copy.png" /></a>
+<a href="https://www.linkedin.com/in/philippe-kruettli" target="_blank"><img align="left" alt="LinkedIn" width="35px" src="https://store-images.s-microsoft.com/image/apps.1719.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.abf46174-2d32-4f53-a6cd-644d5b2be452" /></a>
 <a href="mailto:philippe.kruettli@gmx.ch"><img align="left" alt="Mail" width="35px" src="https://theme.zdassets.com/theme_assets/2075172/c570a5c9b64cfe45d0969ed41e3ef37a94bd1cb7.png" /></a>
